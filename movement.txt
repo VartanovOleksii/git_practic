@@ -2,3 +2,5 @@ w - forward
 a - left
 s - back
 d - right
+space - jump
+esc - pause
