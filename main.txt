@@ -1,3 +1,5 @@
+player_hp = 100;
+
 if (score == 100)
 {
 	win = true;
