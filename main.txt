@@ -1,0 +1,4 @@
+if (score == 100)
+{
+	win = true;
+}
