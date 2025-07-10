@@ -1,5 +1,13 @@
+hp = 100;
+
 if (hp == 0)
 {
 	score++;
 	erase.enemy();
+}
+
+if (position.enemy() == position.player())
+{
+	player_hp--;
+	score--;
 }
